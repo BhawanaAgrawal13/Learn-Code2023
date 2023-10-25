@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mfwix49gNn1EKcCds/IH2WwNs8Ewl01dOq0i+cNGH4I3x19/HCji6IfdoEUpCQV50umO3SKseFe4dmjO506M/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bhawana.agrawal\\Desktop\\L&C\\Assignments\\HumanBody\\HumanBody\\HumanBody.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhawana.agrawal\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\bhawana.agrawal\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\bhawana.agrawal\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\bhawana.agrawal\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\bhawana.agrawal\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\bhawana.agrawal\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
