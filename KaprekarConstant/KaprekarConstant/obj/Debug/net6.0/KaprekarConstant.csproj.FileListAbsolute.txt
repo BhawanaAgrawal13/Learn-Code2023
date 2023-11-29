@@ -1,0 +1,15 @@
+C:\Users\bhawana.agrawal\source\repos\KaprekarConstant\KaprekarConstant\bin\Debug\net6.0\KaprekarConstant.exe
+C:\Users\bhawana.agrawal\source\repos\KaprekarConstant\KaprekarConstant\bin\Debug\net6.0\KaprekarConstant.deps.json
+C:\Users\bhawana.agrawal\source\repos\KaprekarConstant\KaprekarConstant\bin\Debug\net6.0\KaprekarConstant.runtimeconfig.json
+C:\Users\bhawana.agrawal\source\repos\KaprekarConstant\KaprekarConstant\bin\Debug\net6.0\KaprekarConstant.dll
+C:\Users\bhawana.agrawal\source\repos\KaprekarConstant\KaprekarConstant\bin\Debug\net6.0\KaprekarConstant.pdb
+C:\Users\bhawana.agrawal\source\repos\KaprekarConstant\KaprekarConstant\obj\Debug\net6.0\KaprekarConstant.csproj.AssemblyReference.cache
+C:\Users\bhawana.agrawal\source\repos\KaprekarConstant\KaprekarConstant\obj\Debug\net6.0\KaprekarConstant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhawana.agrawal\source\repos\KaprekarConstant\KaprekarConstant\obj\Debug\net6.0\KaprekarConstant.AssemblyInfoInputs.cache
+C:\Users\bhawana.agrawal\source\repos\KaprekarConstant\KaprekarConstant\obj\Debug\net6.0\KaprekarConstant.AssemblyInfo.cs
+C:\Users\bhawana.agrawal\source\repos\KaprekarConstant\KaprekarConstant\obj\Debug\net6.0\KaprekarConstant.csproj.CoreCompileInputs.cache
+C:\Users\bhawana.agrawal\source\repos\KaprekarConstant\KaprekarConstant\obj\Debug\net6.0\KaprekarConstant.dll
+C:\Users\bhawana.agrawal\source\repos\KaprekarConstant\KaprekarConstant\obj\Debug\net6.0\refint\KaprekarConstant.dll
+C:\Users\bhawana.agrawal\source\repos\KaprekarConstant\KaprekarConstant\obj\Debug\net6.0\KaprekarConstant.pdb
+C:\Users\bhawana.agrawal\source\repos\KaprekarConstant\KaprekarConstant\obj\Debug\net6.0\KaprekarConstant.genruntimeconfig.cache
+C:\Users\bhawana.agrawal\source\repos\KaprekarConstant\KaprekarConstant\obj\Debug\net6.0\ref\KaprekarConstant.dll
