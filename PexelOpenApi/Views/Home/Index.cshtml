@@ -1,0 +1,27 @@
+﻿@model ImageSearchViewModel
+
+<h4>Image Search</h4>
+<br />
+
+@using (Html.BeginForm("SearchImages", "Home", FormMethod.Post))
+{
+    <div>
+        @Html.LabelFor(m => m.Search)
+        @Html.TextBoxFor(m => m.Search)
+        <button type="submit">Search</button>
+    </div>
+}
+
+@if (Model.SearchResults != null && Model.SearchResults.Any())
+{
+    <div style="display: flex; flex-wrap: wrap;">
+        @foreach (var photo in Model.SearchResults)
+        {
+            <div style="margin: 10px;">
+                <img src="@photo.Src.Medium" alt="@photo.Alt" style="width: 200px; height: 200px; object-fit: cover;">
+                <p>@photo.Photographer</p>
+            </div>
+        }
+    </div>
+}
+

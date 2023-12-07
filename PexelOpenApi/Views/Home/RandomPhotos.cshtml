@@ -1,0 +1,15 @@
+﻿@model List<PexelsPhoto>
+
+<h2>Random Pexels Photos</h2>
+
+<h2>Photo Collage</h2>
+
+<div style="display: flex; flex-wrap: wrap;">
+    @foreach (var photo in Model)
+    {
+        <div style="margin: 10px;">
+            <img src="@photo.Src.Medium" alt="@photo.Alt" style="width: 200px; height: 200px; object-fit: cover;">
+            <p>Photographer: @photo.Photographer</p>
+        </div>
+    }
+</div>
